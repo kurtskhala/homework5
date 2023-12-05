@@ -1,0 +1,36 @@
+/* header */
+header {
+    width: 1440px;
+    background: #2A9D8F;
+    margin: auto;
+    padding: 38px 130px;
+}
+
+.app-logo-link {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.app-nav {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 841px;
+}
+
+.app-nav-list-item {
+    display: inline-block;
+}
+
+.app-nav-list-item-link {
+    color: #FFF;
+    font-family: 'Nerko One', cursive;
+    /* font-family: 'Poppins', sans-serif; */
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.1px;
+}
+
+.app-nav-list-item-link-mid {
+    margin-inline: 51px;
+}

@@ -179,6 +179,10 @@ header {
     margin-right: 925px;
 }
 
+.app-footer-logo-link {
+    display: inline-block;
+}
+
 .app-footer-nav {
     display: inline-block;
     vertical-align: top;
@@ -194,6 +198,7 @@ header {
 }
 
 .app-footer-nav-link {
+    display: inline-block;
     color: #FFF;
     font-family: 'Poppins', sans-serif;
     font-size: 18px;
@@ -201,6 +206,6 @@ header {
     line-height: 27px;
 }
 
-.app-footer-nav-li-mid {
+.app-footer-nav-link-mid {
     margin: 8px 0;
 }

@@ -122,3 +122,44 @@ header {
     line-height: 24px;
     border: none;
 }
+
+/* section 2 */
+
+.app-section-second {
+    width: 1180px;
+    margin: 200px auto;
+}
+
+.app-section-second-header {
+    color: #4D4D4D;
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 130%;
+    letter-spacing: 0.24px;
+    margin-bottom: 54px;
+    text-align: center;
+}
+
+.app-section-second-card {
+    display: inline-block;
+    width: 580px;
+}
+
+.app-section-second-card-sec {
+    margin-left: 16px;
+}
+
+.app-section-second-card-img {
+    width: 100%;
+    margin-bottom: 32px;
+}
+
+.app-section-second-card-text {
+    color: #535353;
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0.12px;
+}

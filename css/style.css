@@ -176,11 +176,11 @@ header {
 .app-footer-logo {
     width: 98px;
     height: 98px;
-    margin-right: 925px;
 }
 
 .app-footer-logo-link {
     display: inline-block;
+    margin-right: 925px;
 }
 
 .app-footer-nav {
